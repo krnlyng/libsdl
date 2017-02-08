@@ -14,7 +14,7 @@ BuildRequires: pkgconfig(glesv1_cm)
 BuildRequires: pkgconfig(glesv2)
 BuildRequires: pkgconfig(xkbcommon)
 BuildRequires: pkgconfig(libpulse-simple)
-
+BuildRequires: systemd-devel
 
 %description
 This is the Simple DirectMedia Layer, a generic API that provides low
